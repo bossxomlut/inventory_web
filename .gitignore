@@ -1,3 +1,4 @@
 .idea/copilotDiffState.xml
 .idea/inventory_web.iml
 .idea/caches/deviceStreaming.xml
+node_modules/
